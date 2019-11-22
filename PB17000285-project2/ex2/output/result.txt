@@ -1,0 +1,12 @@
+(16,10)fx 2
+(16,20)fx 2
+(16,30)csc 3
+(16,40)fx 2
+(16,50)vx 2
+(16,60)rc 2
+(15,26)clvwxh 6
+(30,26)gguoxtc 7
+(45,26)rdubmoxs 8
+(60,26)dvybsmbxhc 10
+(75,26)bdybubrxlsm 11
+(90,26)ldlusmorxthcm 13
